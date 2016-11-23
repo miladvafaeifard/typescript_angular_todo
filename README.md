@@ -82,4 +82,4 @@ To compile the TypeScript in this project:
 	# from examples/typescript-angular
 	$ npm run compile
 
-Or use Visual Studio with the TypeScript plugin.
+## Running in gulp
